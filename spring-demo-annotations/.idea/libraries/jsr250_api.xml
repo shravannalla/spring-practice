@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsr250-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jsr250-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
